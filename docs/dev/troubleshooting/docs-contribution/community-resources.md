@@ -1,6 +1,6 @@
 # Community resources
 
-We cannot promise to cover all aspects of zkSync so we will attempt to highlight some of the community's outstanding resources such as videos, tutorials, articles etc.
+We cant promise to cover all aspects of zkSync so we will attempt to highlight some of the community's outstanding resources such as videos, tutorials, articles etc.
 
 The [Awesome zkSync repo](https://github.com/0xJuancito/awesome-zksync) is where community-based resources live.
 
